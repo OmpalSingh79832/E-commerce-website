@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/E-comm/static/css/main.767f2877.css",
+    "main.js": "/E-comm/static/js/main.12384dd4.js",
+    "static/media/banner-img.png": "/E-comm/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/E-comm/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "index.html": "/E-comm/index.html",
+    "main.767f2877.css.map": "/E-comm/static/css/main.767f2877.css.map",
+    "main.12384dd4.js.map": "/E-comm/static/js/main.12384dd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.767f2877.css",
+    "static/js/main.12384dd4.js"
+  ]
+}
